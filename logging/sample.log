@@ -1,0 +1,9 @@
+2022-05-07 16:49:40,609-11176-WARNING-warning.log
+2022-05-07 16:49:40,609-11176-ERROR-error.log
+2022-05-07 16:49:40,609-11176-CRITICAL-critical.log
+2022-05-07 16:49:40,609-11176-ERROR-user=SATO raised error
+2022-05-07 16:49:40,610-11176-ERROR-division by zero
+Traceback (most recent call last):
+  File "c:\ai_project\logging\sample.py", line 27, in <module>
+    c = a/b
+ZeroDivisionError: division by zero
